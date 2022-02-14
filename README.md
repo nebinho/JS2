@@ -1,1 +1,1 @@
-School project. Learning javascript
+School project learning javascript
